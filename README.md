@@ -59,6 +59,8 @@ Ph.D. in Bioengineering | M.S. Candidate in Computer Science, Syracuse Universit
 📧 Email: hwu188@syr.edu  
 🌐 GitHub: [https://github.com/huansha2002](https://github.com/huansha2002)
 
+This repository is shared for educational and research demonstration purposes only.  
+Unauthorized reproduction or commercial use is prohibited.
 ---
 
 *This project demonstrates how computational analytics can illuminate FDA regulatory and innovation dynamics.*
