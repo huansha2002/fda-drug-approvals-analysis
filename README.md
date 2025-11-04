@@ -44,11 +44,16 @@ The project applies **Python-based analytics and visualization** to uncover regu
 
 ---
 
-## Key Findings
-- Biologic drugs (BLA) have increased sharply since 2015  
-- Oncology dominates accelerated and expedited approvals  
-- Roche, BMS, Pfizer, and Novartis are consistent top innovators  
-- PRV programs remain rare but strategically valuable  
+## 📊 Visualization Summary (Modules 01–06)
+
+| Module | Visualization |
+|:--------|:---------------|
+| 01 — NDA vs BLA Approvals | ![NDA vs BLA Approvals](figures/nda_vs_bla_stacked_2010_2024_auto.png) |
+| 02 — Therapeutic Area Trends | ![Therapeutic Areas](figures/ta_stacked_by_year_2010_2024.png) |
+| 03 — Company Landscape | ![Top 20 Companies](figures/company_grouped_clean_top20_nda_bla_stacked_2010_2024.png) |
+| 04 — Accelerated Approvals | ![Accelerated Approvals](figures/accelerated_approvals_NDA_BLA_stacked_2010_2024.png) |
+| 05 — Regulatory Designations | ![Designation Trends](figures/designation_combinations_bar_2010_2024.png) |
+| 06 — Priority Review Vouchers | ![Priority Review Vouchers](figures/prv_issued_by_type_2010_2024.png) |
 
 ---
 
@@ -59,8 +64,9 @@ Ph.D. in Bioengineering | M.S. Candidate in Computer Science, Syracuse Universit
 📧 Email: hwu188@syr.edu  
 🌐 GitHub: [https://github.com/huansha2002](https://github.com/huansha2002)
 
-This repository is shared for educational and research demonstration purposes only.  
-Unauthorized reproduction or commercial use is prohibited.
 ---
 
+*This repository is shared for educational and research demonstration purposes only.*  
+*Unauthorized reproduction or commercial use is prohibited.*  
 *This project demonstrates how computational analytics can illuminate FDA regulatory and innovation dynamics.*
+
