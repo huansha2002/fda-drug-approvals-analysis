@@ -1,4 +1,4 @@
-# fda-drug-approvals-analysis
+# FDA-Drug-Approvals-Analysis
 Data-driven analysis of FDA drug approval trends (2010–2024)
 
 # FDA Drug Approval Trends (2010–2024)
